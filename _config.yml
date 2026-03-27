@@ -1,0 +1,14 @@
+title: LBRCC
+description: Leighton Buzzard Road Cycling Club
+url: ""
+baseurl: ""
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - lbrcc-front.jpeg
