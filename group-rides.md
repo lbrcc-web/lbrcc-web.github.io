@@ -52,7 +52,7 @@ Additional rides on some Saturday mornings, Sunday afternoons, and evenings thro
 
 <div class="tips-grid">
 <a class="tip" href="https://docs.google.com/spreadsheets/d/1tfUdtspE8N6nP1Bcp0GM8-qmbvjrE_NPZZYey8GrLMQ/edit#gid=0" target="_blank">📋 LBRCC Route Library</a>
-<a class="tip" href="https://www.strava.com/clubs/leighton-buzzard-road-cycling-club-lbrcc" target="_blank">🏅 Strava Club</a>
+<a class="tip" href="https://www.strava.com/clubs/LBRCC" target="_blank">🏅 Strava Club</a>
 <a class="tip" href="https://connect.garmin.com/group/179308" target="_blank">📡 Garmin Connect Group</a>
 <a class="tip" href="/rules-and-etiquette">📖 Rules & Etiquette</a>
 </div>
